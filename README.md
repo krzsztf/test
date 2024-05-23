@@ -1,3 +1,3 @@
-# Test repo to check stacker PR flow
+# Test repo to check stacked PR flow
 
 ## Headline 1
